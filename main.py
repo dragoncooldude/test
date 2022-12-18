@@ -133,7 +133,7 @@ Idiot
 
       ''')
     with st.expander("You need to see my face"):
-        image = Image.open('pictures\mypic.jpg')
+        image = Image.open('pictures/mypic.jpg')
         st.write("Hi Sweetestheart,")
         st.image(image)
         st.write('''
