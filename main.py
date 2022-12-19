@@ -20,7 +20,7 @@ if activity_type == "Read why I love you":
     st.markdown("- You think you have great sense of humor, it's mediocre at best.")
     st.markdown("- Just how lucky you make me feel to have you.")
 
-    st.text("Now got to the options on the left and enjoy the rest of your gift")
+    st.text("Now got to the options on the top left corner and enjoy the rest of your gift")
 
 elif activity_type == "Read Poems":
     st.header("Here are some words i have written for you over the years:")
