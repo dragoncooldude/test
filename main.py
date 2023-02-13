@@ -22,7 +22,7 @@ if activity_type == "Read why I love you":
 
     st.text("Now got to the options on the top left corner and enjoy the rest of your gift")
     
-elif activity_type == "Read Poems":
+elif activity_type == 'Valentine 2023':
     st.header("Happy valentines day my love <3")
     
     
