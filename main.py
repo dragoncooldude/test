@@ -24,6 +24,26 @@ if activity_type == "Read why I love you":
     
 elif activity_type == 'Valentine 2023':
     st.header("Happy valentines day my love <3")
+    poem=''' Your eyes, like pools of liquid gold,
+Reflect the love that never grows old.
+With every look, my heart takes flight,
+Soaring on wings of pure delight.
+
+Your touch, soft and gentle, like a summer breeze,
+A gentle caress that sends shivers down my knees.
+With you, I find the peace I've searched for so long,
+A refuge from the world, where I truly belong.
+
+Your voice, a melody that soothes my soul,
+A gentle harmony that makes me feel whole.
+With you, I am complete, I've finally found
+The missing piece of my heart, in you I am bound.
+
+So let us hold on tight to this love we share,
+And bask in its warmth, a love beyond compare.
+With each passing day, it will only grow stronger,
+A love that will last, forever and longer.'''
+    st.text(poem)
     
     
 
