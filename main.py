@@ -23,9 +23,9 @@ if activity_type == "Read why I love you":
     st.text("Now got to the options on the top left corner and enjoy the rest of your gift")
     
 elif activity_type == 'Valentine 2023':
-    st.header("Happy valentines day my love <3")
+    st.header("Happy valentines day my love ❤️")
     st.subheader("Here's something i put together for you this valentine's")
-    st.write("I hope you like it")
+    st.write("I hope you like it!!")
     poem=''' Your eyes, like pools of liquid gold,
 Reflect the love that never grows old.
 With every look, my heart takes flight,
