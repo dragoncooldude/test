@@ -43,9 +43,9 @@ With you, I am complete, I've finally found,
 The missing piece of my heart, in you I am bound.
 
 The woman that you are,
-my words will always fall short,
+My words will always fall short,
 I'll make it up,
-by being your eternal support.
+By being your eternal support.
 
 So let us hold on tight to this love we share,
 And bask in its warmth, a love beyond compare.
