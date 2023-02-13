@@ -24,10 +24,12 @@ if activity_type == "Read why I love you":
     
 elif activity_type == 'Valentine 2023':
     st.header("Happy valentines day my love <3")
+    st.header1("Here's something i put together for you this valentine's"
+    st.write("I hope you like it")
     poem=''' Your eyes, like pools of liquid gold,
 Reflect the love that never grows old.
 With every look, my heart takes flight,
-Soaring on wings of pure delight.
+I'd drown in them, wihtout a fight.
 
 Your touch, soft and gentle, like a summer breeze,
 A gentle caress that sends shivers down my knees.
@@ -36,7 +38,7 @@ A refuge from the world, where I truly belong.
 
 Your voice, a melody that soothes my soul,
 A gentle harmony that makes me feel whole.
-With you, I am complete, I've finally found
+With you, I am complete, I've finally found,
 The missing piece of my heart, in you I am bound.
 
 So let us hold on tight to this love we share,
