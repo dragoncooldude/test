@@ -26,6 +26,7 @@ elif activity_type == 'Valentine 2023':
     st.header("Happy valentines day my love ❤️")
     st.subheader("Here's something i put together for you this valentine's")
     st.write("I hope you like it!!")
+    st.title("The woman that you are")
     poem=''' Your eyes, like pools of liquid gold,
 Reflect the love that never grows old.
 With every look, my heart takes flight,
@@ -41,10 +42,15 @@ A gentle harmony that makes me feel whole.
 With you, I am complete, I've finally found,
 The missing piece of my heart, in you I am bound.
 
+The woman that you are,
+my words will always fall short,
+I'll make it up,
+by being your eternal support.
+
 So let us hold on tight to this love we share,
 And bask in its warmth, a love beyond compare.
 With each passing day, it will only grow stronger,
-A love that will last, forever and longer.'''
+A love that will last, till the end of times and longer.'''
     st.text(poem)
     
     
