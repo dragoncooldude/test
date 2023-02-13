@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # Add a dropdown menu to select the anniversary gift
-gift_options = ['Read why I love you','Read Poems', 'Read a Letter', 'Look at our Photos', 'Listen to our old Songs']
+gift_options = ['Read why I love you','Read Poems', 'Read a Letter', 'Look at our Photos', 'Listen to our old Songs','Valentine 2023']
 activity_type = st.sidebar.selectbox('What would you like to do today?', gift_options)
 
 
@@ -21,6 +21,11 @@ if activity_type == "Read why I love you":
     st.markdown("- Just how lucky you make me feel to have you.")
 
     st.text("Now got to the options on the top left corner and enjoy the rest of your gift")
+    
+elif activity_type == "Read Poems":
+    st.header("Happy valentines day my love <3")
+    
+    
 
 elif activity_type == "Read Poems":
     st.header("Here are some words i have written for you over the years:")
